@@ -1,4 +1,5 @@
 Inverted Pyramid Pattern Generator
+
 This JavaScript project generates an inverted pyramid pattern based on user-defined inputs. Customize your pyramid with the following options:
 
 - Character Choice: Select any character to build your pyramid.
